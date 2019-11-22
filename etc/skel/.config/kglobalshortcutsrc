@@ -15,7 +15,7 @@ _k_friendly_name=Accessibility
 Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
 Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
-_k_friendly_name=KDE Daemon
+_k_friendly_name=System Settings
 
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
@@ -23,7 +23,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=KDE Daemon
+_k_friendly_name=System Settings
 {001c259d-46e3-4777-9670-1f09474ead6c}=Ctrl+Alt+F,none,firefox
 {05e0c4c6-bc8c-4bd3-b364-848b8c283b71}=Ctrl+Alt+S,none,spotify
 {10de7d96-63a9-4746-b323-4bf106497412}=Ctrl+Alt+B,none,thunar
@@ -41,6 +41,7 @@ _k_friendly_name=KDE Daemon
 {60862ebd-a33e-4704-8798-160093eb0c56}=Ctrl+Alt+M,none,systemsettings5
 {6974e3f8-bde2-43ae-b7d7-1c22e54bcc23}=Ctrl+Shift+Esc,none,ksysguard
 {6bf4a8a3-df17-4e9e-9f91-871f1c032a52}=Meta+F7,none,Virtual box
+{6eaeefa9-40d9-468d-9da4-1371555c4ef3}=Meta+Shift+Print,none,Take Rectangular Region Screenshot
 {70f72937-91cb-4591-9694-973958efe5b8}=Ctrl+Alt+P,none,pamac-manager
 {73454729-badf-44f5-8023-f52761c4d117}=Meta+Esc,none,xkill
 {7451628c-be2a-4635-b046-6d0a85f6419b}=none,none,vlc
