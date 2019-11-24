@@ -8,7 +8,7 @@ RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
 ItemGeometriesHorizontal=
-activityId=1fe86127-d67b-4797-816f-87c2194fc798
+activityId=799fea17-cff7-46d0-9aac-8d71c6bf41fc
 formfactor=0
 immutability=1
 lastScreen=0
@@ -16,8 +16,17 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][ConfigDialog]
+DialogHeight=600
+DialogWidth=800
+
 [Containments][1][Configuration]
-PreloadWeight=34
+PreloadWeight=0
+
+[Containments][1][General]
+ToolBoxButtonState=topright
+ToolBoxButtonX=1888
+sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/1920x1080.png
@@ -31,25 +40,19 @@ location=4
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
-[Containments][2][Applets][23]
+[Containments][2][Applets][25]
 immutability=1
 plugin=org.kde.plasma.kicker
 
-[Containments][2][Applets][23][Configuration]
+[Containments][2][Applets][25][Configuration]
 PreloadWeight=100
 
-[Containments][2][Applets][23][Configuration][ConfigDialog]
-DialogHeight=720
-DialogWidth=960
-
-[Containments][2][Applets][23][Configuration][General]
-alphaSort=true
-customButtonImage=start-here-symbolic-budgie
+[Containments][2][Applets][25][Configuration][General]
 favoritesPortedToKAstats=true
 limitDepth=true
 useCustomButtonImage=true
 
-[Containments][2][Applets][23][Shortcuts]
+[Containments][2][Applets][25][Shortcuts]
 global=Alt+F1
 
 [Containments][2][Applets][4]
@@ -57,14 +60,14 @@ immutability=1
 plugin=org.kde.plasma.pager
 
 [Containments][2][Applets][4][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][2][Applets][5]
 immutability=1
 plugin=org.kde.plasma.taskmanager
 
 [Containments][2][Applets][5][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][2][Applets][6]
 immutability=1
