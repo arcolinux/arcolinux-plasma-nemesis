@@ -20,3 +20,5 @@ wobblywindowsEnabled=true
 MaximizeButtonLeftClickCommand=Maximize
 RollOverDesktops=true
 TitlebarDoubleClickCommand=Maximize
+RollOverDesktops=true
+ActiveMouseScreen=true
