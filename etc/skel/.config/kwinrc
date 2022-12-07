@@ -5,9 +5,6 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 OpenGLIsUnsafe=false
 
 [Desktops]
-BorderActivate=9
-BorderActivateCylinder=9
-BorderActivateSphere=9
 Id_1=3ecc69d2-d092-4829-89bf-f52f0f24af30
 Id_2=ff89bc8b-7e5f-4fd2-b268-d8481580aa97
 Id_3=f03e7e33-b797-4a04-b569-52377fe1095d
@@ -26,14 +23,6 @@ BorderActivateSphere=9
 BorderActivate=9
 
 [Effect-PresentWindows]
-BorderActivate=9
-BorderActivateAll=7
-BorderActivateClass=9
-
-[Effect-desktopgrid]
-BorderActivate=9
-
-[Effect-presentwindows]
 BorderActivate=9
 BorderActivateAll=7
 BorderActivateClass=9
