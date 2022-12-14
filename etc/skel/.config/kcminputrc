@@ -9,6 +9,7 @@ RepeatRate=25
 
 [Mouse]
 X11LibInputXAccelProfileFlat=false
+cursorTheme=Bibata-Modern-Ice
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
