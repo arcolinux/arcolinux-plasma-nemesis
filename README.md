@@ -1,1 +1,1 @@
-# ArcoLinux desktop settings plasma testing (nemesis)
+# ArcoLinux desktop settings plasma
